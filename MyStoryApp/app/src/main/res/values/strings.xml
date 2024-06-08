@@ -19,4 +19,6 @@
     <string name="empty_image_warning">Silakan pilih gambar terlebih dahulu</string>
     <string name="story_map">Story Map</string>
     <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="API_key">AIzaSyC2dPVmBICauL3yTyud9MbyqjN1yXU1pEE</string>
 </resources>
